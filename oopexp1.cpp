@@ -1,4 +1,4 @@
-// 1. Program to perform arithmetic operations
+ // 1. Program to perform arithmetic operations
 #include<iostream>
 using namespace std;
 main() {
